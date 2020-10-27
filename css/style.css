@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* span { 
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 2px solid red;
+    color: blue;
+} */
+
+.a{
+    display: none;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 2px solid red;
+}
+
+.b{
+    display: inline;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 2px solid red;
+    
+}
+
+.c{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 2px solid red;
+}
+.d{
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 2px solid red;
+}
+
+p{ 
+    margin: 100px 150px 100px 100px;
+    border: 10px double green;
+    border-radius: 28px;
+    padding: 12px 24px;
+}
